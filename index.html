@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html ng-app="bacotin">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bacotin</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body ng-controller="BacotinController as bacot">
+    <div ng-controller="BacotController as bacotCtrl">
+    <div ng-controller="UploadController" nv-file-drop="" uploader="uploader" filters="queueLimit, customFilter">
+        <div class="bacotnya">
+            <div class="bacot-container">
+                <p class="comment">{{bacotCtrl.user.body}}</p>
+                <p class="name"><i>- {{bacotCtrl.user.name}}</i></p>
+                <!-- Image preview -->
+                <!--auto height-->
+                <!--<div ng-thumb="{ file: item.file, width: 100 }"></div>-->
+                <!--auto width-->
+                <div ng-repeat="item in uploader.queue">
+                    <div class="background" ng-show="uploader.isHTML5" ng-thumb="{ file: item._file , width:1280, height: 900}"></div>    
+                </div>
+                
+                <!--fixed width and height -->
+                <!--<div ng-thumb="{ file: item.file, width: 100, height: 100 }"></div>-->
+                <pre>master = {{master | json}}</pre>
+            </div>
+        </div>
+        <!-- <blockquote>
+            <cite>by: {{bacotCtrl.review.email}} on {{bacotCtrl.review.createdOn | date:'MM/dd/yyyy @ h:mma'}}</cite><br>
+            {{bacotCtrl.review.friendsmail}}
+        </blockquote> -->
+        <div class="overlay"></div>
+        <form id="bacotForm" name="bacotForm" ng-submit="bacotForm.$valid" novalidate>
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-md-12">
+                        <fieldset class="form-group">
+                            <textarea ng-model="bacotCtrl.user.body" class="form-control" placeholder="Tulis bacot lo disini..." title="Review" required></textarea>
+                        </fieldset>
+                        <div class="clearfix"></div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <!-- <div ng-controller="UploadController" nv-file-drop="" uploader="uploader" filters="queueLimit, customFilter"> -->
+
+                                    <div class="container-fluid">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <!-- Example: nv-file-select="" uploader="{Object}" options="{Object}" filters="{String}" -->
+                                                <input type="file" nv-file-select="" uploader="uploader"/>
+                                                <div ng-show="uploader.isHTML5">
+                                                    <!-- 3. nv-file-over uploader="link" over-class="className" -->
+                                                    <div class="well my-drop-zone" nv-file-over="" uploader="uploader">
+                                                        Base drop zone
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+
+                                        <div class="row">
+
+                                            <div class="col-md-9" style="margin-bottom: 40px">
+
+                                                <table class="table">
+                                                    <thead>
+                                                        <tr>
+                                                            <th width="50%">Name</th>
+                                                            <th ng-show="uploader.isHTML5">Size</th>
+                                                            <th ng-show="uploader.isHTML5">Progress</th>
+                                                            <th>Status</th>
+                                                            <th>Actions</th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        <tr>
+                                                            <td>
+                                                                <!-- <strong>{{ item.file.name }}</strong> -->
+                                                                
+                                                            </td>
+                                                            <td ng-show="uploader.isHTML5" nowrap>{{ item.file.size/1024/1024|number:2 }} MB</td>
+                                                            <td ng-show="uploader.isHTML5">
+                                                                <div class="progress" style="margin-bottom: 0;">
+                                                                    <div class="progress-bar" role="progressbar" ng-style="{ 'width': item.progress + '%' }"></div>
+                                                                </div>
+                                                            </td>
+                                                            <td class="text-center">
+                                                                <span ng-show="item.isSuccess"><i class="glyphicon glyphicon-ok"></i></span>
+                                                                <span ng-show="item.isCancel"><i class="glyphicon glyphicon-ban-circle"></i></span>
+                                                                <span ng-show="item.isError"><i class="glyphicon glyphicon-remove"></i></span>
+                                                            </td>
+                                                            <td nowrap>
+                                                                <button type="button" class="btn btn-success btn-xs" ng-click="item.upload()" ng-disabled="item.isReady || item.isUploading || item.isSuccess">
+                                                                    <span class="glyphicon glyphicon-upload"></span> Upload
+                                                                </button>
+                                                                <button type="button" class="btn btn-warning btn-xs" ng-click="item.cancel()" ng-disabled="!item.isUploading">
+                                                                    <span class="glyphicon glyphicon-ban-circle"></span> Cancel
+                                                                </button>
+                                                                <button type="button" class="btn btn-danger btn-xs" ng-click="item.remove()">
+                                                                    <span class="glyphicon glyphicon-trash"></span> Remove
+                                                                </button>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+
+                                                <div>
+                                                    <div>
+                                                        Queue progress:
+                                                        <div class="progress" style="">
+                                                            <div class="progress-bar" role="progressbar" ng-style="{ 'width': uploader.progress + '%' }"></div>
+                                                        </div>
+                                                    </div>
+                                                    <button type="button" class="btn btn-success btn-s" ng-click="uploader.uploadAll()" ng-disabled="!uploader.getNotUploadedItems().length">
+                                                        <span class="glyphicon glyphicon-upload"></span> Upload all
+                                                    </button>
+                                                    <button type="button" class="btn btn-warning btn-s" ng-click="uploader.cancelAll()" ng-disabled="!uploader.isUploading">
+                                                        <span class="glyphicon glyphicon-ban-circle"></span> Cancel all
+                                                    </button>
+                                                    <button type="button" class="btn btn-danger btn-s" ng-click="uploader.clearQueue()" ng-disabled="!uploader.queue.length">
+                                                        <span class="glyphicon glyphicon-trash"></span> Remove all
+                                                    </button>
+                                                </div>
+
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+
+                                <!-- </div> -->
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <fieldset class="form-group">
+                                    <input ng-model="bacotCtrl.user.name" type="text" class="form-control" placeholder="Baydiwo" title="Name" required/>
+                                </fieldset>        
+                            </div>
+                            <div class="col-md-6">
+                                <fieldset class="form-group">
+                                    <input ng-model="bacotCtrl.user.email" type="email" class="form-control" placeholder="jimmyDean@example.org" title="Email" required/>
+                                </fieldset>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <fieldset class="form-group">
+                                    <input ng-model="bacotCtrl.user.friendsmail" type="email" class="form-control" placeholder="jimmyDean@example.org" title="Email" required/>
+                                </fieldset>  
+                            </div>
+                            <div class="col-md-6">
+                                <fieldset class="form-group">
+                                    <input type="submit" class="btn btn-primary pull-right" value="Send" ng-click="update(bacotCtrl.user)" />
+                                </fieldset>      
+                            </div>
+                        </div>
+                        <!-- <div>bacotForm is {{bacotForm.$valid}}</div> -->
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div> <!-- bacotController -->
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> -->
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script type="text/javascript" src="js/angular.min.js"></script>
+    <!-- Fix for old browsers -->
+    <script src="http://nervgh.github.io/js/es5-shim.min.js"></script>
+    <script src="http://nervgh.github.io/js/es5-sham.min.js"></script>
+    <script src="http://code.jquery.com/jquery-1.8.3.min.js"></script>
+    <script src="js/console-sham.js"></script>
+    <script src="js/angular-file-upload.min.js"></script>
+    <!-- <script src="js/controllers.js"></script> -->
+    <script src="js/app.js"></script>
+</body>
+</html>
