@@ -5,7 +5,7 @@ function AlertController() {
 (function() {
 	var app = angular.module('bacotin', ['angularFileUpload']);
 	app.controller('BacotinController', function() {
-		
+
 	});
 
 	app.controller("BacotController222", function() {
