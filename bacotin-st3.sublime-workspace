@@ -1,0 +1,1141 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"data",
+				"$data2〔variable〕"
+			],
+			[
+				"print",
+				"print_r〔function〕"
+			],
+			[
+				"create",
+				"create_product〔function〕"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"font",
+				"font-size: 〔property〕"
+			],
+			[
+				"lis",
+				"list-style-type: 〔property〕"
+			],
+			[
+				"st",
+				"style	Attr"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"colo",
+				"colorbox.css"
+			],
+			[
+				"in",
+				"instagram"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"article",
+				"article_menu"
+			],
+			[
+				"pst",
+				"$pstID〔variable〕"
+			],
+			[
+				"do",
+				"do_shortcode"
+			],
+			[
+				"ar",
+				"article_menu"
+			],
+			[
+				"name",
+				"$namecat〔variable〕"
+			],
+			[
+				"single",
+				"single_cat_title"
+			],
+			[
+				"is_ca",
+				"is_category"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"contact",
+				"contact_us_image"
+			],
+			[
+				"the_",
+				"the_field"
+			],
+			[
+				"the_ti",
+				"the_title"
+			],
+			[
+				"endfor",
+				"endforeach〔keyword〕"
+			],
+			[
+				"image",
+				"$imageget〔variable〕"
+			],
+			[
+				"imag",
+				"$image〔variable〕"
+			],
+			[
+				"total",
+				"$total_posts〔variable〕"
+			],
+			[
+				"form",
+				"$formatted〔variable〕"
+			],
+			[
+				"ab",
+				"about.php"
+			],
+			[
+				"H",
+				"health-tab.jpg	w:204 h:54"
+			],
+			[
+				"a",
+				"sub_menu_arrow.png	w:12 h:12"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"conta",
+				"contactus.php"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"as",
+				"asiaPacificMap.png	w:290 h:94"
+			],
+			[
+				"c",
+				"ContactUs.png	w:346 h:723"
+			],
+			[
+				"b",
+				"btn-submit.png	w:107 h:25"
+			],
+			[
+				"text",
+				"textarea	Tag"
+			],
+			[
+				"t",
+				"thumb-play-icon.jpg	w:26 h:23"
+			],
+			[
+				"rb",
+				"rgba()"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"ec",
+				"echo	echo \"…\""
+			],
+			[
+				"else",
+				"else〔keyword〕"
+			],
+			[
+				"the",
+				"the_field"
+			],
+			[
+				"play_icon_p",
+				"play_icon_pink.gif	w:76 h:47"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"mari",
+				"margin-right"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"ex",
+				"extended"
+			],
+			[
+				"fa",
+				"fadeToggle	.fadeToggle()"
+			],
+			[
+				"sec",
+				"section6"
+			],
+			[
+				"sc",
+				"scale"
+			],
+			[
+				"trigger",
+				"triggerHook"
+			],
+			[
+				"Tim",
+				"TimelineLite"
+			],
+			[
+				"pac",
+				"pacCloth〔variable〕"
+			],
+			[
+				"twe",
+				"tweenMobileBag〔variable〕"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"bg-se",
+				"bg-section-2.jpg	w:1280 h:1038"
+			],
+			[
+				"log",
+				"logo-small.png	w:158 h:59"
+			],
+			[
+				"upp",
+				"uppercase"
+			],
+			[
+				"css",
+				"css/"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"wi",
+				"winWidth"
+			],
+			[
+				"win",
+				"winHeight"
+			],
+			[
+				"ita",
+				"italic"
+			],
+			[
+				"console",
+				"console.log('$0');"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"logo",
+				"logo-footer.jpg	w:209 h:77"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"hot",
+				"hotline.png	w:497 h:170"
+			],
+			[
+				"ps",
+				"position"
+			],
+			[
+				"pa",
+				"package3"
+			],
+			[
+				"onCO",
+				"onComplete:function"
+			],
+			[
+				"onCo",
+				"onComplete:function"
+			],
+			[
+				"func",
+				"function〔keyword〕"
+			],
+			[
+				"Time",
+				"TimelineMax"
+			],
+			[
+				"function",
+				"function(){TweenMax"
+			],
+			[
+				"on",
+				"on('enter"
+			],
+			[
+				"Tween",
+				"TweenMax"
+			],
+			[
+				"tweenPa",
+				"tweenPackageDoc"
+			],
+			[
+				"off",
+				"offset	.offset()"
+			],
+			[
+				"first",
+				"firstTween"
+			],
+			[
+				"aler",
+				"alert(\"on"
+			],
+			[
+				"alert",
+				"alert(\"on"
+			],
+			[
+				"onC",
+				"onComplete:function"
+			],
+			[
+				"desc",
+				"description_image"
+			],
+			[
+				"non",
+				"none"
+			],
+			[
+				"magin",
+				"marginTop	Style CSS"
+			],
+			[
+				"top",
+				"top:0"
+			],
+			[
+				"bot",
+				"bottom"
+			],
+			[
+				"tweenb",
+				"tweenBoxPaper"
+			],
+			[
+				"set",
+				"setPin('#logo"
+			],
+			[
+				"hide",
+				"hideTheBox"
+			],
+			[
+				"twee",
+				"tweenA"
+			],
+			[
+				"box-b",
+				"box-bag.png	w:190 h:194"
+			],
+			[
+				"right",
+				"rightTurn"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"bo",
+				"box-backside.png	w:296 h:140"
+			],
+			[
+				"bg",
+				"bg-section-3.jpg	w:1280 h:1054"
+			],
+			[
+				"from",
+				"fromTo"
+			],
+			[
+				"timeline",
+				"TimelineLite"
+			],
+			[
+				"tweenLo",
+				"tweenLogo3"
+			],
+			[
+				"tweenLogo",
+				"tweenLogo2"
+			],
+			[
+				"pin",
+				"pinAnimations"
+			],
+			[
+				"fix",
+				"fixed"
+			],
+			[
+				"fi",
+				"fixed"
+			],
+			[
+				"field",
+				"field_key"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"to",
+				"toggle	.toggle() (show/hide)"
+			],
+			[
+				"html",
+				"html	.html()"
+			],
+			[
+				"border",
+				"border-right"
+			],
+			[
+				"aut",
+				"auto"
+			],
+			[
+				"post",
+				"postdate"
+			],
+			[
+				"id",
+				"wp_get_post_parent_id"
+			],
+			[
+				"ech",
+				"echo"
+			],
+			[
+				"revi",
+				"revisions"
+			],
+			[
+				"get_header",
+				"get_header"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 370.0,
+		"last_filter": "html",
+		"selected_items":
+		[
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"pro",
+				"Project: Save As"
+			],
+			[
+				"asp",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"jsbe",
+				"Javascript Beautify"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sublime",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"jsb",
+				"Javascript Beautify"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pm",
+				"Package Control: Remove Package"
+			],
+			[
+				"pc",
+				"Package Control: Remove Package"
+			],
+			[
+				"ad",
+				"Project: Add Folder"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pcin",
+				"Package Control: Install Package"
+			],
+			[
+				"wordpre",
+				"Snippet: WordPress Plugin Boilerplate"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"add ",
+				"Project: Add Folder"
+			],
+			[
+				"lore",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"add f",
+				"Project: Add Folder"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"jquery.",
+				"Snippet: jQuery(document).ready"
+			],
+			[
+				"reind	",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"bs3",
+				"Snippet: bs3-col-3"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"reint",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 496.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"save project",
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/Users/Bayu/Downloads/Chrome/index.html",
+		"/C/Users/Bayu/AppData/Local/Temp/fz3temp-1/.htaccess",
+		"/D/xampp/htdocs/rajutanibu/wp-content/themes/storefront/footer.php",
+		"/C/Users/Bayu/AppData/Local/Temp/fz3temp-1/v_startquiz.php",
+		"/D/xampp/htdocs/rajutanibu/wp-content/themes/storefront/custom.less",
+		"/D/xampp/htdocs/bacotin/index.html",
+		"/D/xampp/htdocs/bacotin/css/style.less",
+		"/C/Users/Bayu/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/Users/Bayu/AppData/Local/Temp/fz3temp-1/template-homepage.php",
+		"/D/xampp/htdocs/coastcycles/wp-content/themes/coast-cycles-revamp/src/scss/style.scss",
+		"/D/xampp/htdocs/coastcycles/wp-content/themes/coast-cycles-revamp/footer.php",
+		"/D/xampp/htdocs/coastcycles/wp-content/themes/coast-cycles-revamp/src/scss/cart.scss",
+		"/D/xampp/htdocs/coastcycles/wp-content/themes/coast-cycles-revamp/header.php",
+		"/D/xampp/htdocs/test/api/index.php",
+		"/D/xampp/htdocs/coastcycles/wp-content/themes/coast-cycles-revamp/gulpfile.js",
+		"/D/xampp/htdocs/coastcycles/wp-content/themes/coast-cycles-revamp/package.json",
+		"/D/xampp/htdocs/coastcycles/st3project.sublime-project",
+		"/D/xampp/htdocs/coastcycles/wp-content/themes/twentyfifteen/header.php",
+		"/C/Users/Bayu/AppData/Local/Temp/fz3temp-1/questions.js",
+		"/C/Users/Bayu/AppData/Local/Temp/fz3temp-1/products.js",
+		"/C/Users/Bayu/AppData/Local/Temp/fz3temp-1/prod_groups.js",
+		"/C/Users/Bayu/AppData/Local/Temp/fz3temp-1/groups.js",
+		"/C/Users/Bayu/AppData/Local/Temp/fz3temp-1/script.js",
+		"/C/Users/Bayu/AppData/Local/Temp/fz3temp-1/index.html",
+		"/D/xampp/htdocs/test/api/lib/woocommerce-api.php",
+		"/D/xampp/htdocs/test/api/example/example.php",
+		"/C/Users/Bayu/AppData/Local/Temp/fz3temp-1/virgin-mojito 2.aspx",
+		"/C/Users/Bayu/AppData/Local/Temp/fz3temp-1/virgin-mojito-bodycare-range.aspx",
+		"/C/Users/Bayu/AppData/Local/Temp/fz3temp-1/virgin-mojito.aspx",
+		"/C/Users/Bayu/AppData/Local/Temp/fz3temp-1/teatree.aspx",
+		"/C/Users/Bayu/AppData/Local/Temp/fz3temp-1/vitaminc.aspx",
+		"/D/xampp/htdocs/bodyshop/virgin/virgin-mojito.aspx",
+		"/C/Users/Bayu/AppData/Local/Temp/fz3temp-1/style 2.css",
+		"/C/Users/Bayu/AppData/Local/Temp/fz3temp-1/style.css",
+		"/D/xampp/htdocs/bodyshop/css/style.less",
+		"/D/xampp/htdocs/bodyshop/tree50.html",
+		"/D/xampp/htdocs/bodyshop/css/GillSans_2.css",
+		"/D/xampp/htdocs/Glass-is-Life/wp-content/themes/Glass-is-Life/page-hubungi-kami.php",
+		"/D/xampp/htdocs/Glass-is-Life/wp-content/themes/Glass-is-Life/src/js/main.js",
+		"/D/xampp/htdocs/Glass-is-Life/wp-content/themes/Glass-is-Life/sidebar.php",
+		"/D/xampp/htdocs/Glass-is-Life/wp-content/themes/Glass-is-Life/homepage.php",
+		"/C/Users/Bayu/Documents/Temp/colorbox-master/example2/index.html",
+		"/D/xampp/htdocs/Glass-is-Life/wp-content/themes/Glass-is-Life/src/css/main.scss",
+		"/D/xampp/htdocs/Glass-is-Life/wp-content/themes/Glass-is-Life/contactus.php",
+		"/D/xampp/htdocs/Glass-is-Life/wp-content/themes/Glass-is-Life/single-kelestarian.php",
+		"/D/xampp/htdocs/Glass-is-Life/wp-content/themes/Glass-is-Life/single-kesehatan.php",
+		"/D/xampp/htdocs/Glass-is-Life/wp-content/themes/Glass-is-Life/single-kualitas.php",
+		"/D/xampp/htdocs/Glass-is-Life/wp-content/themes/Glass-is-Life/single-rasa.php",
+		"/D/xampp/htdocs/Glass-is-Life/wp-content/themes/Glass-is-Life/functions.php",
+		"/C/Users/Bayu/Documents/Temp/colorbox-master/example2/colorbox.css",
+		"/C/Users/Bayu/Downloads/Chrome/Ftp baydiwo@glassislifeindonesia.com.xml",
+		"/D/xampp/htdocs/Glass-is-Life/wp-content/themes/Glass-is-Life/page-tentang-o-i.php",
+		"/D/xampp/htdocs/Glass-is-Life/wp-content/themes/Glass-is-Life/header.php",
+		"/D/xampp/htdocs/Glass-is-Life/wp-content/themes/Glass-is-Life/head.php",
+		"/D/xampp/htdocs/Glass-is-Life/wp-content/themes/Glass-is-Life/src/css/media.scss",
+		"/D/xampp/htdocs/Glass-is-Life/wp-content/themes/Glass-is-Life/footer.php",
+		"/D/xampp/htdocs/Glass-is-Life/wp-content/themes/Glass-is-Life/page.php",
+		"/D/xampp/htdocs/Glass-is-Life/wp-content/themes/Glass-is-Life/article.php",
+		"/D/xampp/htdocs/Glass-is-Life/wp-content/themes/Glass-is-Life/template-parts/content-page.php",
+		"/D/xampp/htdocs/Glass-is-Life/wp-content/themes/Glass-is-Life/category.php",
+		"/D/xampp/htdocs/Glass-is-Life/wp-content/themes/Glass-is-Life/page-tentang-o-i-2.php",
+		"/D/xampp/htdocs/Glass-is-Life/wp-content/themes/Glass-is-Life/src/css/fullpage-menu.css",
+		"/D/xampp/htdocs/Glass-is-Life/wp-content/themes/Glass-is-Life/assets/css/style.css",
+		"/C/Users/Bayu/Documents/Temp/fullpage-menu-master/demo/fullpage-menu_demo.html",
+		"/D/xampp/htdocs/Glass-is-Life/wp-content/themes/Glass-is-Life/page-kunci-hubungan.php",
+		"/C/Users/Bayu/Documents/Temp/fullpage-menu-master/demo/jquery.fullpage-menu.js",
+		"/D/xampp/htdocs/Glass-is-Life/wp-content/themes/Glass-is-Life/keycontacts.php",
+		"/D/xampp/htdocs/Glass-is-Life/wp-content/themes/Glass-is-Life/inc/article-menu.php",
+		"/D/xampp/htdocs/one-animation/functions.php",
+		"/D/xampp/htdocs/Glass-is-Life/wp-content/themes/Glass-is-Life/single.php",
+		"/D/xampp/htdocs/Glass-is-Life/wp-content/themes/Glass-is-Life/single-tentangkacax.php",
+		"/D/xampp/htdocs/Glass-is-Life/wp-content/themes/Glass-is-Life/template-parts/content.php",
+		"/D/xampp/htdocs/Glass-is-Life/wp-content/themes/Glass-is-Life/template-parts/content-single.php",
+		"/D/xampp/htdocs/Glass-is-Life/wp-content/themes/Glass-is-Life/template-parts/content-search.php",
+		"/D/xampp/htdocs/Glass-is-Life/wp-config.php",
+		"/D/xampp/htdocs/Glass-is-Life/wp-content/themes/Glass-is-Life/single-tentang-kaca.php",
+		"/D/xampp/htdocs/Glass-is-Life/wp-content/themes/Glass-is-Life/category-taste.php",
+		"/D/xampp/htdocs/Glass-is-Life/wp-content/themes/Glass-is-Life/category-caseforglass.php",
+		"/D/xampp/htdocs/Glass-is-Life/wp-content/themes/Glass-is-Life/taste.php",
+		"/D/xampp/htdocs/Glass-is-Life/wp-content/themes/Glass-is-Life/category-2.php",
+		"/C/Users/Bayu/AppData/Local/Temp/fz3temp-1/header 2.php",
+		"/D/xampp/htdocs/Glass-is-Life/wp-content/themes/Glass-is-Life/about.php",
+		"/D/xampp/htdocs/Glass-is-Life/wp-content/themes/Glass-is-Life/page-about-o-i.php",
+		"/D/xampp/htdocs/Glass-is-Life/wp-content/themes/Glass-is-Life/page-contact-us.php",
+		"/C/Users/Bayu/AppData/Local/Temp/fz3temp-1/header.php",
+		"/C/Users/Bayu/AppData/Local/Temp/fz3temp-1/index 4.php",
+		"/C/Users/Bayu/AppData/Local/Temp/fz3temp-1/index 3.php",
+		"/C/Users/Bayu/AppData/Local/Temp/fz3temp-1/index 2.php",
+		"/D/xampp/htdocs/Glass-is-Life/wp-content/themes/Glass-is-Life/style.css",
+		"/D/xampp/htdocs/Glass-is-Life/wp-content/themes/Glass-is-Life/index.php",
+		"/D/xampp/htdocs/one-animation/footer.php",
+		"/C/Users/Bayu/AppData/Local/Temp/fz3temp-1/category-18.php",
+		"/D/xampp/htdocs/siapalagi-backup/wp-content/themes/siapalagi/incl/sidebar.php",
+		"/D/xampp/htdocs/siapalagi-backup/wp-content/themes/siapalagi/incl/catslider.php",
+		"/D/xampp/htdocs/siapalagi-backup/wp-content/themes/siapalagi/category-18.php",
+		"/C/Users/Bayu/AppData/Local/Temp/fz3temp-1/newsslider.php",
+		"/C/Users/Bayu/AppData/Local/Temp/fz3temp-1/category.php",
+		"/C/Users/Bayu/AppData/Local/Temp/fz3temp-1/catslider.php",
+		"/D/xampp/htdocs/siapalagi-backup/wp-content/themes/siapalagi/single-berniaga.php",
+		"/C/Users/Bayu/AppData/Local/Temp/fz3temp-1/sidebar.php",
+		"/C/Users/Bayu/AppData/Local/Temp/fz3temp-1/homepage.php",
+		"/D/xampp/htdocs/siapalagi-backup/wp-content/themes/siapalagi/css/style.less",
+		"/D/xampp/htdocs/siapalagi-backup/wp-content/themes/siapalagi/search.php",
+		"/C/Users/Bayu/AppData/Local/Temp/fz3temp-1/search.php",
+		"/C/Users/Bayu/AppData/Local/Temp/fz3temp-1/bootstrap.css",
+		"/D/xampp/htdocs/safe/SAFE-Compro/index.html",
+		"/D/xampp/htdocs/safe/SAFE-Compro/css/style.less",
+		"/D/xampp/htdocs/safe/SAFE-Compro/js/app.js",
+		"/C/Users/Bayu/AppData/Local/Temp/fz3temp-1/nav.php",
+		"/D/xampp/htdocs/safe/SAFE-Compro/css/style_bak.less",
+		"/D/xampp/htdocs/safe/SAFE-Compro/index_bak.html",
+		"/D/xampp/htdocs/safe/SAFE-Compro/js/app_done_bak.js",
+		"/C/Users/Bayu/AppData/Local/Temp/fz3temp-1/footer.php",
+		"/C/Users/Bayu/AppData/Local/Temp/fz3temp-1/wp-config.php",
+		"/D/xampp/htdocs/Glass-is-Life/inc/article-menu.php",
+		"/D/xampp/htdocs/Glass-is-Life/taste.php",
+		"/D/xampp/htdocs/Glass-is-Life/sustainability.php",
+		"/D/xampp/htdocs/Glass-is-Life/quality.php",
+		"/D/xampp/htdocs/Glass-is-Life/health.php",
+		"/D/xampp/htdocs/Glass-is-Life/article-menu.php",
+		"/D/xampp/htdocs/Glass-is-Life/head.php",
+		"/D/xampp/htdocs/Glass-is-Life/index.php",
+		"/D/xampp/htdocs/Glass-is-Life/contactus.php",
+		"/D/xampp/htdocs/Glass-is-Life/keycontacts.php",
+		"/D/xampp/htdocs/Glass-is-Life/about.php",
+		"/D/xampp/htdocs/Glass-is-Life/src/css/main.scss",
+		"/D/xampp/htdocs/Glass-is-Life/article.php",
+		"/D/xampp/htdocs/Glass-is-Life/footer.php"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"",
+			"D:\\xampp\\htdocs\\rajutanibu\\wp-content\\plugins\\woocommerce",
+			"D:\\xampp\\htdocs\\rajutanibu\\wp-content\\themes\\storefront",
+			"D:\\xampp\\htdocs\\rajutanibu\\wp-content\\plugins\\woocommerce",
+			"D:\\xampp\\htdocs\\rajutanibu\\wp-content\\themes\\storefront",
+			"D:\\xampp\\htdocs\\safe\\SAFE-Compro",
+			"D:\\xampp\\htdocs\\fm\\FM-SmartLink",
+			"D:\\xampp\\htdocs\\safe\\package-tracking\\wp-content\\themes",
+			"D:\\xampp\\htdocs\\fm\\FM-SmartLink",
+			"D:\\xampp\\htdocs\\rajutanibu\\wp-content\\plugins\\woocommerce",
+			"D:\\xampp\\htdocs\\rajutanibu\\wp-content\\themes\\storefront",
+			"D:\\xampp\\htdocs\\rajutanibu\\wp-content\\plugins\\woocommerce",
+			"D:\\xampp\\htdocs\\rajutanibu\\wp-content\\themes\\storefront",
+			"",
+			"D:\\xampp\\htdocs\\rajutanibu\\wp-content\\plugins\\woocommerce",
+			"D:\\xampp\\htdocs\\rajutanibu\\wp-content\\themes\\storefront",
+			"D:\\xampp\\htdocs\\rajutanibu\\wp-content\\plugins\\woocommerce",
+			"D:\\xampp\\htdocs\\rajutanibu\\wp-content\\themes\\storefront",
+			"D:\\xampp\\htdocs\\rajutanibu\\wp-content\\plugins\\woocommerce",
+			"D:\\xampp\\htdocs\\rajutanibu\\wp-content\\themes\\storefront"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"1366",
+			"product",
+			"20px;",
+			"left;",
+			".content",
+			":",
+			"lily",
+			"create_product",
+			"maincontent",
+			"<li>",
+			"<ol style=\"list-style-type: lower-alpha;\">",
+			"<p>",
+			"decimal",
+			"11px",
+			"itemtemplate",
+			"BUY NOW",
+			".small",
+			"small",
+			"images",
+			"fonts",
+			"”",
+			"“",
+			"’",
+			"kelestarian",
+			"kualitas",
+			"rasa",
+			"mobile",
+			"href=\"",
+			"logo",
+			"20px",
+			"white",
+			"WATCH HIS VIDEO",
+			"div",
+			"man-details",
+			"custom_main_nav",
+			"primary",
+			"kualitas",
+			"the_permalinks",
+			"one-animation",
+			"$query",
+			"Query",
+			"query",
+			"args",
+			"src=\"",
+			"b",
+			"p",
+			"src=\"",
+			"<?php echo get_template_directory_uri(); ?>/assets/img/joe-schiraldi-video-thumb.jpg",
+			"<pre>",
+			"Friends of Glass (FEVE)",
+			"assets/img/about_glass_is_life_withsizzle_04.jpg",
+			"taste",
+			"href=\"",
+			"src=\"",
+			"args",
+			"field",
+			"echo \"",
+			"fields",
+			"mark",
+			"-bak",
+			"slider",
+			"div",
+			"imageurl",
+			"params",
+			"'post_status'            => 'published',",
+			" : ",
+			" :",
+			" : ",
+			"bg-section",
+			"-border",
+			"quaColor",
+			"color",
+			"quaColor",
+			"class=\"greenbg\"",
+			"grey",
+			"F26531",
+			"                                        <",
+			">\n",
+			"b",
+			"p",
+			"offset-2",
+			"col-sm-10",
+			"col-sm-2",
+			"from-control",
+			"emailAddress",
+			"yourName",
+			"placeholder=\"yourName\"",
+			"yourName",
+			"<div class=\"form-group\">\n                    <label for=\"yourName\" class=\"col-sm-2 control-label\">Your Name *</label>\n                        <div class=\"col-sm-10\">\n                        <input type=\"text\" class=\"form-control\" id=\"yourName\" placeholder=\"yourName\">\n                        </div>\n                    </div>",
+			"Email",
+			"email",
+			"Email",
+			"inputPassword3",
+			"inputEmail3",
+			"img-responsive",
+			"20px",
+			"menubg",
+			"green",
+			"span",
+			"absolute",
+			"<span>'.the_title().'</span>",
+			"</a></li>",
+			"src=\"",
+			"=\"",
+			"src=\"",
+			"value=\"",
+			"</option>",
+			"value",
+			">>",
+			"20",
+			"green",
+			"1D819E",
+			"li:nth-child(2){\n            .theposts {.title {.colors{color: #1D819E;}}.linefront {background: #1D819E;}.lineback {background: rgba(29,129,58,0.6);}}\n        }",
+			"p>",
+			"p",
+			"span",
+			"class",
+			"menu-item menu-item-type-post_type menu-item-object-page menu-item-",
+			"menu-item menu-item-type-post_type menu-item-object-page menu-item-286",
+			"sb",
+			"sans",
+			" ",
+			"resources",
+			"assete",
+			"vendor",
+			"dest_path",
+			"util",
+			"del"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"DISCOVER NOW",
+			"\"",
+			"'",
+			"class=\"slider-frame on\"",
+			"href=\"dashboard.html\"",
+			"col-md-10",
+			"gotham",
+			"fff",
+			"385ea5",
+			"<i class=\"flaticon-download174\"></i>&nbsp;",
+			"<i class=\"flaticon-eye106\"></i>&nbsp;",
+			"<i class=\"flaticon-eye106\"></i>",
+			"http://10.130.1.20/promo/MGMPromo.asmx",
+			"",
+			"<img src=\"img/content/thumb.jpg\" alt=\"\" class=\"img-responsive\">"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 197.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "bacotin-st3.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Bayu\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Projects\\baydiwo-pc\\ACS.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
